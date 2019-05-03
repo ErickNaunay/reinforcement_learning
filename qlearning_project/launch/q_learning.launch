@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="qlearning_project" name="main" type="main.py" output= "screen"/>
+	
+</launch>
