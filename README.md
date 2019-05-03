@@ -47,6 +47,8 @@ Each shell opened has to run the following command before launching any ros node
 . ~/catkin_ws/devel/setup.bash
 
 For running the robot real simulation:
+
 export DISPLAY=:0
+
 roslaunch qlearning_project qlearning.launch --screen
 
